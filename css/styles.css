@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #C0EEF2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+
+h1{
+    font-size: 70px;
+    width: 50%;
+    margin: 50px auto;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    padding: 40px;
+    width: 60%;
+    margin: 0 auto;
+    font-size: 2.3rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+
+.top-cloud{
+    margin: 50px auto;
+    position: relative;
+    left: 20%;
+}
+
+.bottom-cloud{
+    margin: 50px auto;
+    position: absolute;
+    left: 20%;
+}
+
+.desc{
+    text-align: center;
+}
+
+h3{
+    color: #11999E;
+}
+
+a{
+    color: #11999E;padding: 20px;
+    padding: 20px 20px;
+    margin-bottom: 50px;
+}
+
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin: 2% auto 2% auto;
+    line-height: 2;
+}
+
+.skill-img1{
+    width: 15%;
+    float: left;
+    margin: auto 30px 150px auto;
+}
+
+.skill-1{
+    margin: 0 10px 0 10px;
+}
+
+.mysql{
+    padding: 500px;
+    text-align: left;
+}
+
+.database{
+    padding: 500px;
+    text-align: left;
+}
+
+
+.skill-img2{
+    width: 15%;
+    float: right;
+}
+
+.rest-img1{
+    width: 5%;
+    float: left;
+    /*margin: auto 30px 150px auto;*/
+}
+
+.rest-img2{
+    width: 10%;
+    float: right;
+}
+
